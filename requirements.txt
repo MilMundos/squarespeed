@@ -1,1 +1,4 @@
 squarespace_commerce
+
+requests
+jinja2
